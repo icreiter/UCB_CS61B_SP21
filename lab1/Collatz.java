@@ -5,6 +5,11 @@ public class Collatz {
 
     /** Buggy implementation of nextNumber! */
     public static int nextNumber(int n) {
+        if (n <= 0){
+            /* for those n smaller or equal to 0 */
+            return 1;
+        }
+
         /* to check whether n to reach the stop number 1*/
         if (n == 1 ){
             return 1;
@@ -20,6 +25,10 @@ public class Collatz {
     public static void main(String[] args) {
         int n = 5;
         System.out.print(n + " ");
+        while (n !=1 ){
+            n = nextNumber(n);
+            System.out.print(n + " ");
+        }
         System.out.println();
     }
 }
