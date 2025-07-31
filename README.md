@@ -34,13 +34,14 @@ Full calendar → 🔗 https://sp21.datastructur.es/
 - [x] **2025-07-03**: reading 1.1  
 - [x] **2025-07-03**: video Lec 1  
 - [x] **2025-07-04**: HW0 (lab0)  
-- [x] **2025-07-05**: lab1  
+- [x] **2025-07-05**: lab 0 & 1  
 - [x] **2025-07-16**: reading 1.2 
+- [x] **2025-07-31**: video Lec 2  & Live QA
 ---
 
 ## Next Steps
-- [ ] **2025-07-XX**: video Lec 2  
-- [ ] **2025-07-XX**: Project 0
+- [ ] **2025-08-XX**: Project 0
+- [ ] **2025-08-XX**: Reading for week 2
 - [ ] **2025-0X-XX**: lab2  
 - [ ] **2025-0X-XX**: Week2
 
@@ -53,8 +54,8 @@ Full calendar → 🔗 https://sp21.datastructur.es/
 ```
 ├── .git/ # Git directory
 ├── HW0/ # My lab0 assignment & notes
-├── lab1/ # Official skeleton for Lab 1
-├── lab2/ # Official skeleton for Lab 2
+├── lab1/ 
+├── lab2/ 
 ├── lab2setup/ # Lab 2 setup files
 ├── lab3/
 ├── lab4/
